@@ -1,0 +1,7 @@
+Type: Shiny
+Title: conditionalPanel demo
+License: MIT
+Author: RStudio original app
+AuthorUrl: https://github.com/rstudio/shiny-examples/tree/master/033-conditionalpanel-demo
+Tags: conditionalpanel
+DisplayMode: Showcase

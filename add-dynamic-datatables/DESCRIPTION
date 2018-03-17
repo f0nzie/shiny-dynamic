@@ -1,0 +1,7 @@
+Type: Shiny
+Title: add data tables to dynamically created tabs
+License: MIT
+Author: Carl 
+AuthorUrl: https://stackoverflow.com/users/4564432/carl
+Tags: updateTabs
+DisplayMode: Showcase

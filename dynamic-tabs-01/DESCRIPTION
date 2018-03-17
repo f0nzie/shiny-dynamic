@@ -1,0 +1,7 @@
+Type: Shiny
+Title: Add tabPanel dynamically
+License: MIT
+Author: Ramnath Vaidyanathan
+AuthorUrl: https://stackoverflow.com/users/235349/ramnath
+Tags: updateTabs
+DisplayMode: Showcase

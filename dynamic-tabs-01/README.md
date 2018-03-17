@@ -1,0 +1,1 @@
+Original application from StackOverflow: [https://stackoverflow.com/a/19470562/5270873](https://stackoverflow.com/a/19470562/5270873)
